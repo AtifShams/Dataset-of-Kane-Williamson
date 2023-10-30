@@ -1,0 +1,31 @@
+Opposition,Ground Name,Venue,Pitch,Weather,4s in last 5 matches,6s in last 5 matches,Avg Score in last 5 matches,Score in last 5 matches,Runs
+Bangladesh,MA Chidambaram Stadium,Chennai,Dusty,clouds,Good 4s,Poor 6s,Excellent Avg,Good Score,Good Runs
+Pakistan,National Stadium,Karachi,Dead,cloudy,Good 4s,Poor 6s,Excellent Avg,Good Score,Good Runs
+Pakistan,National Stadium,Karachi,Dead,clear,Good 4s,Poor 6s,Excellent Avg,Good Score,Good Runs
+Pakistan,National Stadium,Karachi,Dead,clear,Poor 4s,Poor 6s,Poor Avg,Poor Score,Poor Runs
+India,Eden Park,Christchurch,Green,cloudy,Poor 4s,Good 6s,Excellent Avg,Good Score,Poor Runs
+India,Eden Park,Christchurch,GreGen, sunny,Good 4s,Good 6s,Excellent Avg,Good Score,Good Runs
+Australia,Cazaly's Stadium,Cairns,Dusty,cloudy,Good 4s,Good 6s,Excellent Avg,Good Score,Poor Runs
+Australia,Cazaly's Stadium,Cairns,Dusty,sunny,Good 4s,Poor 6s,Excellent Avg,Good Score,Poor Runs
+Australia,Cazaly's Stadium,Cairns,Dusty,sunny,Good 4s,Good 6s,Poor Avg,Poor Score,Poor Runs
+Australia,Cazaly's Stadium,Cairns,Dead,sunny,Poor 4s,Good 6s,Excellent Avg,Good Score,Poor Runs
+Australia,Cazaly's Stadium,Cairns,Green,sunny,Poor 4s,Good 6s,Excellent Avg,Good Score,Poor Runs
+England,Lord's Cricket Ground,Mount Maunganui,Green,cloudy,Good 4s,Good 6s,Poor Avg,Poor Score,Poor Runs
+England,Lord's Cricket Ground,Mount Maunganui,Dead, sunny,Poor 4s,Poor 6s,Poor Avg,Poor Score,Poor Runs
+England,Lord's Cricket Ground,Mount Maunganui,Green,cloudy,Good 4s,Poor 6s,Poor Avg,Poor Score,Good Runs
+England,Lord's Cricket Ground,Mount Maunganui,Dead,sunny,Good 4s,Poor 6s,Poor Avg,Poor Score,Poor Runs
+England,Lord's Cricket Ground,Mount Maunganui,Dead,sunny,Good 4s,Poor 6s,Poor Avg,Poor Score,Poor Runs
+Australia,Edgbaston,Birmingham,dead,cloudy,Good 4s,Poor 6s,Excellent Avg,Good Score,Poor Runs
+Australia,Edgbaston ,Birmingham,Green,clear,Good 4s,Good 6s,Excellent Avg,Good Score,Excellent Runs
+Australia,Edgbaston ,Birmingham,Green,clear,Good 4s,Excellent 6s,Excellent Avg,Good Score,Excellent Runs
+Afghanistan,"The Cooper Associates County Ground, Taunton",Taunton,Dusty,cloudy,Good 4s,Excellent 6s,Excellent Avg,Good Score,Good Runs
+Bangladesh,"McLean Park, Napier",The Oval,Green, sunny,Good 4s,Excellent 6s,Excellent Avg,Excellent Score,Poor Runs
+Bangladesh,"McLean Park, Napier",The Oval,Dead,cloudy,Good 4s,Excellent 6s,Excellent Avg,Excellent Score,Good Runs
+Bangladesh,"McLean Park, Napier",The Oval,Dusty,sunny,Good 4s,Good 6s,Excellent Avg,Excellent Score,Poor Runs
+India,"Bay Oval, Mount Maunganui",Wellington,Green,sunny,Good 4s,Good 6s,Excellent Avg,Good Score,Poor Runs
+India,"Bay Oval, Mount Maunganui",Wellington,Green,sunny,Good 4s,Poor 6s,Excellent Avg,Good Score,Poor Runs
+India,"Bay Oval, Mount Maunganui",Wellington,Dead,cloudy,Good 4s,Poor 6s,Poor Avg,Poor Score,Poor Runs
+India,"Bay Oval, Mount Maunganui",Wellington,Dead,cloudy,Poor 4s,Good 6s,Poor Avg,Poor Score,Poor Runs
+India,"Bay Oval, Mount Maunganui",Wellington,Green,sunny,Good 4s,Good 6s,Poor Avg,Poor Score,Good Runs
+Sri Lanka,"Saxton Oval, Nelson",Nelson,Green,clear,Good 4s,Excellent 6s,Poor Avg,Poor Score,Good Runs
+Sri Lanka,"Saxton Oval, Nelson",Nelson,Dead,clear,Good 4s,Excellent 6s,Poor Avg,Poor Score,Poor Runs
